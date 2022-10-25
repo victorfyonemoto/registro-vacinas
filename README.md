@@ -1,5 +1,7 @@
 # Programa para registro e cadastro de pessoas vacinadas
 
+Criação de um programa para registro e cadastro de pessoas vacinadas contra a Covid-19, seguindo os seguintes critérios e instruções.
+
 A vacinação contra o Covid-19 evoluiu muito no ano de 2021. Para 2022 ao que tudo indica doses de reforço serão necessárias para controle da pandemia. Com a ajuda da tecnologia, o controle de vacinas são todas digitalizadas, inclusive a partir de um aplicativo você mesmo pode consultar as vacinas que você tomou.
 
 Imagine então que você trabalha na área de desenvolvimento de software do seu estado, e você foi designado para registrar os dados de aplicação das vacinas. Nesta aplicação a pessoa responsável precisará pegar do paciente as informações como nome, cpf, nome da vacina aplicada, número do lote e a data da aplicação.
@@ -15,6 +17,7 @@ Este programa deve ser capaz de cadastrar as informações de aplicação de vac
 
 Logo após o cadastro o programa deverá disponibilizar outros dois recursos, um deles é um relatório geral de aplicação, que trará todas as informações das aplicações em tela no seguinte modelo:
 
+```
 Código: 0
 Nome: Rogerio Napoleao Júnior
 CPF: 111.111.111-11
@@ -29,6 +32,7 @@ Vacina: Coronavac
 Data: 10/05/2022
 Numero do Lote: 333222333
 ==================================
+```
 
 O outro recurso necessário é busca por CPF, ao usuário digitar o CPF o programa deve fazer uma buscar e mostrar em tela apenas o CPF consultado, caso não exista uma informação “CPF não encontrado” deve ser mostrado na tela.
 
