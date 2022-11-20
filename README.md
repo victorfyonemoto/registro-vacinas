@@ -38,7 +38,7 @@ O outro recurso necessário é busca por CPF, ao usuário digitar o CPF o progra
 
 Para controlar este programa deverá ter um menu de opções como abaixo:
 
-1 - Cadastrar Vacina
-2 - Listar Aplicações
-3 - Consultar por CPF
-4 - Sair
+1. Cadastrar Vacina
+2. Listar Aplicações
+3. Consultar por CPF
+4. Sair
